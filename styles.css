@@ -1,3 +1,9 @@
 img {
   max-width: 25%;
 }
+
+@media (min-width: 30em) {
+  p {
+    min-width: 75%;
+  }
+}
