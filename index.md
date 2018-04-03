@@ -4,6 +4,8 @@
 
 [![Necromancer's Apprentice](/necromancersapprentice.jpg)](/necromancersapprentice)
 
+[![Lilly](/lilly.jpg)](/lilly)
+
 ---
 
 - [About](/about)
