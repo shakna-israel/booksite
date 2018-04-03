@@ -8,6 +8,8 @@
 
 Sequel to [Drakes: the Five Eyes](/drakes2).
 
+---
+
 Three years after Drakes: The Five Eyes, a global investigation into the events is under way, and all eyes are on Suzie Drakes, some wanting to label her the scapegoat, others wanting to hold her up as an ideal to the whole world.
 
 But she doesn't want any of it. She just wants to be normal.

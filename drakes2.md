@@ -8,6 +8,8 @@
 
 Sequel to [Drakes](/drakes). Followed by [Drakes: Heroes and Villains](/drakes3).
 
+---
+
 Following "Drakes" this tale follows the recovery of Susan Ashley Drakes, and her subsequent mission to the Canadian Security and Intelligence Service.
 
 Technology, intelligence, and terrorism collide in this short story, about a girl, with way too much on her plate.
