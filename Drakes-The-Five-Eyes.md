@@ -6,7 +6,7 @@
 
 ---
 
-Sequel to [Drakes](/drakes). Followed by [Drakes: Heroes and Villains](/drakes3).
+Sequel to [Drakes](/Drakes). Followed by [Drakes: Heroes and Villains](/Drakes-Heroes-and-Villains).
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-Followed by [Drakes: the Five Eyes](/drakes2).
+Followed by [Drakes: the Five Eyes](/Drakes-The-Five-Eyes).
 
 ---
 

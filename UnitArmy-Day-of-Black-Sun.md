@@ -6,7 +6,7 @@
 
 ---
 
-Followed by [UnitArmy: Doomsday Device](/uadd).
+Followed by [UnitArmy: Doomsday Device](/UnitArmy-Doomsday-Device).
 
 ---
 

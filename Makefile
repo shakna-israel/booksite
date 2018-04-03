@@ -3,7 +3,7 @@ OFILES := $(patsubst %.md,%.html,$(wildcard *.md))
 all: $(OFILES)
 
 %.html : %.md
-	pandoc $< -o $@ -s -c styles.css
+	pandoc $< -o $@ -s -H 'header.html' --metadata title=$(basename $@ .html)
 
 clean :
 	rm $(OFILES)

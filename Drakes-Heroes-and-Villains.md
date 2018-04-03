@@ -6,7 +6,7 @@
 
 ---
 
-Sequel to [Drakes: the Five Eyes](/drakes2).
+Sequel to [Drakes: the Five Eyes](/Drakes-The-Five-Eyes).
 
 ---
 

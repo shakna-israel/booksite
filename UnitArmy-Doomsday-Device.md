@@ -6,7 +6,7 @@
 
 ---
 
-Sequel to [UnitArmy: Day of Black Sun](/uadobs).
+Sequel to [UnitArmy: Day of Black Sun](/UnitArmy-Day-of-Black-Sun).
 
 ---
 
