@@ -37,3 +37,5 @@
 ---
 
 - [About](/about)
+
+- [Contact](/contact)
