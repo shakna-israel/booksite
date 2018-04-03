@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Necromancer's Apprentice
-
 ![Necromancer's Apprentice Cover](/necromancersapprentice.jpg)
 
 ---

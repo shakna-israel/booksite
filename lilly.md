@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Lilly
-
 ![Lilly](/lilly.jpg)
 
 ---

@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Autumn's Blessings, Protagonist
-
 ![Autumn's Blessings, Protagonist](/protagonist.png)
 
 ---

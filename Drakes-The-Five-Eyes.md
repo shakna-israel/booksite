@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Drakes: The Five Eyes
-
 ![Drakes 2: The Five Eyes](/drakes-the-five-eyes.jpg)
 
 ---

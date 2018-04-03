@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## The Heart of Madness
-
 ![Heart Of Madness Cover](/heartofmadness.png)
 
 ---

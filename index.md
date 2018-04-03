@@ -1,5 +1,3 @@
-# [Shakna Israel](/)
-
 [![Autumn's Blessings, Protagonist Cover](/protagonist.png)](/Autumns-Blessings-Protagonist)
 
 ---
@@ -33,9 +31,3 @@
 ---
 
 [![Drakes 3: Heroes and Villains](/drakes-heroes-and-villains.jpg)](/Drakes-Heroes-and-Villains)
-
----
-
-- [About](/About)
-
-- [Contact](/Contact)

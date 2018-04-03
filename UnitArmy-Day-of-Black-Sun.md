@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## UnitArmy: Day of Black Sun
-
 ![UnitArmy: Day of Black Sun](/unitarmy-day-of-black-sun.jpg)
 
 ---

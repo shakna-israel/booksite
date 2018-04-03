@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Drakes: Heroes and Villains
-
 ![Drakes 3: Heroes and Villains](/drakes-heroes-and-villains.jpg)
 
 ---

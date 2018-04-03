@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## UnitArmy: Doomsday Device
-
 ![UnitArmy: Doomsday Device](/unitarmy-doomsday-device.jpg)
 
 ---

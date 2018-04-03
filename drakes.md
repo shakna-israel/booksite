@@ -1,7 +1,3 @@
-# [Shakna Israel](/)
-
-## Drakes
-
 ![Drakes](/drakes.jpg)
 
 ---

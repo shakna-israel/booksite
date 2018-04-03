@@ -1,5 +1,3 @@
-# [Shakna Israel](/)
-
 You can contact me on:
 
 * [KeyBase](https://keybase.io/shakna). (Encrypted messaging)

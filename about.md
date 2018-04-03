@@ -1,5 +1,3 @@
-# [Shakna Israel](/)
-
 I've been writing as long as I can remember, and world-building longer.
 
 I tend to craft worlds of fantasy, be it magic or robotics.
