@@ -1,5 +1,9 @@
 # [Shakna Israel](/)
 
+[![Autumn's Blessings, Protagonist Cover](/protagonist.png)](/protagonist)
+
+---
+
 [![Heart of Madness Cover](/heartofmadness.png)](/heartofmadness)
 
 ---
