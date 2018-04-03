@@ -6,7 +6,7 @@
 
 ---
 
-Sequel to [Drakes](/drakes).
+Sequel to [Drakes](/drakes). Followed by [Drakes: Heroes and Villains](/drakes3).
 
 Following "Drakes" this tale follows the recovery of Susan Ashley Drakes, and her subsequent mission to the Canadian Security and Intelligence Service.
 

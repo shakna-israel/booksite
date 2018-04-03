@@ -6,6 +6,8 @@
 
 ---
 
+Followed by [UnitArmy: Doomsday Device](/uadd).
+
 Science fiction and fantasy often collide, so close that the difference is a matter of opinion, but the world doesn’t let it stay that way.
 
 The brilliant inventors of the world take what is imagined and make it a reality.
